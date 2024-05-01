@@ -1,0 +1,20 @@
+{
+  "name": "typescript-nodeprojects-student-management-system",
+  "version": "1.0.0",
+  "description": "This TypeScript code implements a command-line interface (CLI) based Student Management System using the inquirer library for user interaction and the chalk library for color-coded output. This system allows authorized users to perform various operations on student data.",
+  "main": "sms.js",
+  "type": "module",
+  "bin": "sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Student Management System","Command-Line Interface","User Interface","inquirer library","chalk library","Student Registration","Student Search","Student Record Management","Data Validation","Grade Calculation","Object-Oriented Programming","Persistent Data Storage"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
